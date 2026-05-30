@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\lazarus\ccr\pas2js-rtl\bin\x86_64-win64\pas2js.exe" Date="1780130193"/>
-  <Params Value="-Tbrowser -Pecmascript5 -MObjFPC -Sc -O1 -l -vewnhibq &quot;-FiD:\pas2js\z min example\Website\js&quot; &quot;-FuD:\pas2js\z min example\Website\&quot; &quot;-FUD:\pas2js\z min example\Website\js\&quot; &quot;-FED:\pas2js\z min example\Website\&quot; &quot;-oD:\pas2js\z min example\Website\project1.js&quot; -Jeutf-8 -Jirtl.js -Jc -Jminclude project1.lpr"/>
-</CONFIG>
